@@ -69,4 +69,4 @@ Media do aluno: 8.33
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Arthurclawss/Sistema-de-gerenciamento-de-turma
+git clone https://github.com/Arthurclawss/Sistema-de-gerenciamento-de-turma.git
