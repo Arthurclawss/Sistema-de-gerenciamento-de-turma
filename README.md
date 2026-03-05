@@ -42,25 +42,37 @@ Listar: 1
 Sair: 0
 ------------------
 
-Cadastro de aluno:
+## Cadastro de aluno:
 
 Nome do aluno: João
+
 Idade do aluno: 15
+
 Serie do aluno(apenas o numero): 1
+
 Nota do Primeiro Semestre: 8.5
+
 Nota do Segundo Semestre: 9.0
+
 Nota do Terceiro Semestre: 7.5
 
-Listagem de alunos:
+## Listagem de alunos:
 
 ------------------
 Nome: João
+
 Idade: 15
+
 Serie: 1
+
 Nota do primeiro Semestre: 8.5
+
 Nota do Segundo Semestre: 9.0
+
 Nota do Terceiro Semestre: 7.5
+
 Media do aluno: 8.33
+
 ------------------
 
 
